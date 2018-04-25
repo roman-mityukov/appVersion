@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*
 import java.util.Optional
 
 @RestController
-@RequestMapping(path= arrayOf("/appversion"))
+@RequestMapping(path= arrayOf(""))
 class AppVersionController {
     @Autowired
     lateinit var versionRepository: VersionRepository
