@@ -1,3 +1,2 @@
 # appVersion
-A simple web service for getting an application build number.
-Spring servlet
+A simple web application (Spring servlet) for getting an application build number.
